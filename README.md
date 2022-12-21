@@ -3,7 +3,7 @@ Used to get runnable lua code from dumped luac files.
 
 ## ❓Usage
 ### 1.)
-ctrl c + ctrl v your luac into the dir and rename it to input.luac
+ctrl c + ctrl v your luac FILE into the dir and rename it to input.luac
 
 ### 2.)
 run decompile.bat
